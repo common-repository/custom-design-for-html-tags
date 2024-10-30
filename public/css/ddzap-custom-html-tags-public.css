@@ -1,0 +1,25 @@
+.ddzap-preview-block {
+  position: relative;
+  z-index: 9999;
+  background-color: #ffffff;
+  width: 100%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+}
+.ddzap-preview-block ul {
+  list-style: none;
+  width: 100%;
+  padding: 0 0 0 1em;
+  margin: 0;
+}
+.ddzap-preview-block ul li {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+.ddzap-preview-block ul li hr {
+  margin: 20px 0;
+}
+
+/*# sourceMappingURL=ddzap-custom-html-tags-public.css.map */
